@@ -5,9 +5,6 @@ O FakePinterest é uma réplica do Pinterest realizada como parte do curso de Py
 Nesse site é possível criar seu usuário, enviar imagens do seu computador e visualizar as imagens enviadas por você e por outros usuários, além de poder visualizar o perfil deles. 
 Desenvolvido com **Python** com o framework **Flask** e junto do **SQLite**, que foi utilizado durante a fase de produção do projeto. Durante o processo de deploy ele foi substituido por um banco de dados **PostgreSQL**. 
 
-## Link de Acesso
-Para acessar o site, clique [aqui](https://fakepinterest-uycj.onrender.com/). É possível encontrar problemas que estão relacionados com a conexão com a internet, para resolver, apenas recarregue a página.
-
 ## Funcionalidades Principais
 - Autenticação de Usuários: Regristro de novos usuários com validação de dados e login seguro, utilizando criptografia de senhas com Flask-Bcrypt.
 - Gerenciamento de Perfil: Cada usuário possui uma página de perfil individual onde pode visualizar suas próprias fotos e informações de conta.
